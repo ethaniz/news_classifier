@@ -1,0 +1,16 @@
+1. CNN ['loss', 'acc'] - [0.6760402823389843, 0.817787913340935]
+
+2. Pre-trained CNN ['loss', 'acc'] - [0.6219723870950945, 0.827594070695553]
+
+3. fasttext ['precision', 'recall'] - [0.8059293044469783, 0.8059293044469783]
+
+4. bert
+
+12/28/2018 03:47:05 - INFO - __main__ -   ***** Running evaluation *****
+12/28/2018 03:47:05 - INFO - __main__ -     Num examples = 4385
+12/28/2018 03:47:05 - INFO - __main__ -     Batch size = 8
+12/28/2018 03:47:54 - INFO - __main__ -   ***** Eval results *****
+12/28/2018 03:47:54 - INFO - __main__ -     eval_accuracy = 0.8944127708095782
+12/28/2018 03:47:54 - INFO - __main__ -     eval_loss = 0.448445732232
+12/28/2018 03:47:54 - INFO - __main__ -     global_step = 1647
+12/28/2018 03:47:54 - INFO - __main__ -     loss = 0.09933682072921257
